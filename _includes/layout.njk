@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="/styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
+<body>
+  <main style="max-width: 800px; margin: 0 auto; padding: 2rem;">
+    <p><a href="/" style="font-size: 0.9rem;"><i class="fas fa-arrow-left"></i> Back to Home</a></p>
+    <article>
+      <h1>{{ title }}</h1>
+      <p><small>{{ date | date("MMMM d, yyyy") }}</small></p>
+      {{ content | safe }}
+    </article>
+  </main>
+</body>
+</html>
