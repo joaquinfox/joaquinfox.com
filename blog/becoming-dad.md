@@ -1,10 +1,14 @@
 ---
 title: Becoming Dad
-date: 2025-05-01
+date: 2025-05-01T12:00:00
 layout: post
 ---
 
-![AI generated image of father and daughter](/assets/dad/AI-generated-dad.png)
+<!-- ![AI generated image of father and daughter](/assets/dad/AI-generated-dad.png) -->
+<img src="/assets/dad/AI-generated-dad.png" alt="AI generated image of father and daughter" style="max-width:100%; height:auto; display:block; margin:1rem auto; border-radius:12px;" />
+
+
+
 
 Maybe you always wanted to be a dad. Or maybe fatherhood was something you tried to avoid. Maybe it scared you. Maybe it scares you still.
 
