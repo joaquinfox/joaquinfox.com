@@ -11,7 +11,7 @@ module.exports = function (eleventyConfig) {
 
   // Blog collection (sorted newest first)
   eleventyConfig.addCollection("blog", (collectionApi) => {
-    return collectionApi.getFilteredByGlob("blog/*.md").reverse();
+    return collectionApi.getFilteredByGlob("src/blog/*.md").reverse();
   });
 
   // Date formatting filter
@@ -21,8 +21,8 @@ module.exports = function (eleventyConfig) {
 
   return {
     dir: {
-      input: ".",
-      includes: "_includes",
+      input: "src",
+      includes: "../_includes",
       output: "output"
     },
     markdownTemplateEngine: "njk",
