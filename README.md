@@ -71,7 +71,7 @@ This was new to me, but it’s impressive. Cloudflare enables a secure tunnel fr
 
 The setup required some trial and error, but Cloudflare’s documentation is top-tier.
 
-## Conclusion
+## Last thing
 
 Building and hosting your own website might be impractical—but it's educational. It teaches you a lot about web mechanics and networking. I recommend it.
 
