@@ -23,7 +23,7 @@ When we parent we learn what a child needs, and how so much of what they need go
 
 Our children—all children—are so incredibly vulnerable, for such an incredibly long time. While societies love stories of resilient children raised by wolves to become lords of the jungle, or kids who survive abuse or war, or rise from poverty to become inspirational beacons, we know that these are mostly just stories. There was no Tarzan, no Mowgli. And for every abused or neglected child that overcomes their disadvantage and who then goes on to tell of it, there are thousands more who are forever only broken and shackled by their past.
 
-**What matters now, and here, to you**
+**What matters now, and here, to you**  
 Consider this: raising your child might be the most impactful thing you will do in your life. You might aspire to more than “just” being a good parent. I hope you do, and I wish you success in those aspirations. But the vast majority of us will not stop or start wars or cure diseases or build empires or become wealthy or gain any celebrity.
 
 We are, most of us, people with little power or status or wealth. For us, striving for our children's best possible future might be the single most powerful deed we will perform in this life. And it's no small thing to raise a child well, if you believe, as I believe, that devotion to our children is an act of devotion to our collective future.
