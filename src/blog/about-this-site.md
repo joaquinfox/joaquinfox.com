@@ -14,7 +14,7 @@ I host it from an old Dell computer salvaged from a dumpster, which now sits in 
   
 I built this site to see how it is done, and to understand what it means to <em>host</em>, which like so many terms in my world of IT, is a word taken from ordinary language and tortured into meaning something completely different. Learning the language of technology takes a bit of unlearning the language of humanity.  
 
-We borrow words for things we once understood to describe things we just made up: objects that are not objects at all, kernels, utilities, protocols, instances, shadows, and children that spawn siblings, run-times and user-spaces, images and snapshots, layers and stacks, and on and on, a taxonomy of things that barely exist, a jungle of strange, digital creatures.
+We borrow words for things we once understood to describe things we just made up: objects that are not objects at all, kernels and services with timers and logs, utilities implementing  protocols implementing standards, instances with pipeline to threads with shadows, and children that spawn siblings, run-times and user-spaces, images and snapshots, layers and stacks, and on and on, a taxonomy of things that barely exist, a jungle of strange, digital creatures.
 
 I built this site to make up for my weak online presence.  
 I built this site to have a place to dump some of the crap I write.  
